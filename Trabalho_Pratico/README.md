@@ -2,4 +2,4 @@
 
 Alunos:
 - Victor Dias Klebes. RA 125111350641
-- Lucas
+- Lucas Aparecido Candido Sousa. RA 125111361069
